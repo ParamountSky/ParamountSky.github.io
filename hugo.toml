@@ -1,4 +1,4 @@
 baseURL = 'https://paramountsky.github.io/'
 languageCode = 'ko-kr'
 title = 'Paramount Sky'
-theme = 'ananke'
+theme = 'loveit'
